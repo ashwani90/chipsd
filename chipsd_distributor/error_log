@@ -1,0 +1,7 @@
+[02-Feb-2018 08:53:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/shopsolutions/public_html/cashino/cashino_distributor/application/config/config.php on line 26
+[02-Feb-2018 08:53:57 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Feb-2018 08:54:51 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/shopsolutions/public_html/cashino/cashino_distributor/application/config/config.php on line 26
+[02-Feb-2018 08:54:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[02-Feb-2018 08:54:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/shopsolutions/public_html/cashino/cashino_distributor/application/config/config.php on line 26
+[02-Feb-2018 08:54:53 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[10-Feb-2018 05:36:41 UTC] PHP Fatal error:  Call to undefined method Login_model::get_balance() in /home/tyagiaditya20/public_html/cashino/cashino_distributor/application/controllers/Distributor.php on line 182
